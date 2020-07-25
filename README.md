@@ -1,1 +1,1 @@
-![image](https://github.com/nhcarrigan/nhcarrigan/blob/master/profile.png?raw=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=nhcarrigan&theme=synthwave"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhcarrigan&theme=synthwave">
