@@ -26,6 +26,10 @@ All of my projects are available here on GitHub. You can view my top projects/co
 [![twitter](https://img.shields.io/twitter/follow/nhcarrigan?color=purple&label=Twitter&logoColor=purple&style=social)](https://twitter.com/nhcarrigan)
 [![steam](https://img.shields.io/badge/Steam-nhcarrigan-purple)](https://steamcommunity.com/id/nhcarrigan)
 
+## 100 Days of Code
+
+![100 Days of Code Round 1](https://img.shields.io/badge/100%20Days%20of%20Code%20Round%201-Day%2056-purple)
+
 ## GitHub Stats
 
 [![nhcarrigan's github stats](https://github-readme-stats.vercel.app/api?username=nhcarrigan&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
