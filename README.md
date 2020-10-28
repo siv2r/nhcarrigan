@@ -8,7 +8,7 @@ I began my developer journey in April of 2020, starting at the very top of the [
 
 ## Projects
 
-All of my projects are available here on GitHub. You can view my top projects/contributions pinned below this introduction, or you can browse my repositories to see what I have done. Everything I build is open-source, and you are free to fork the repository and play with the code. If you discover a bug or think of a feature to add, feel free to submit issues or pull requests - they are always welcome!
+All of my projects are available here on GitHub. You can view my top projects/contributions pinned below this introduction, or you can browse my repositories to see what I have done. Everything I build is open-source, and you are free to fork the repository and play with the code. If you discover a bug or think of a feature to add, feel free to submit issues or pull requests - they are always welcome! Please review our [contributing guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) first - and see the project's versions for information specific to that project!
 
 ## Tech Stack
 
