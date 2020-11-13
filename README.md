@@ -1,5 +1,7 @@
 # Nicholas Carrigan
 
+![Social Media Banner](./banner.png)
+
 Hello~! Welcome to my GitHub profile! Thank you for coming to visit! 🙃
 
 ## About Me
