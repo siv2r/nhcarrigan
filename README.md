@@ -31,7 +31,7 @@ All of my projects are available here on GitHub. You can view my top projects/co
 ## 100 Days of Code
 
 ![100 Days of Code Round 1](https://img.shields.io/badge/100%20Days%20of%20Code-Round%201%20Day%20100-purple)
-![100 Days of Code Round 2](https://img.shields.io/badge/100%20Days%20of%20Code-Round%202%20Day%2015-purple)
+![100 Days of Code Round 2](https://img.shields.io/badge/100%20Days%20of%20Code-Round%202%20Day%2020-purple)
 
 ## GitHub Stats
 
