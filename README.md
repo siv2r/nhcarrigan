@@ -37,3 +37,6 @@ All of my projects are available here on GitHub. You can view my top projects/co
 
 [![nhcarrigan's github stats](https://github-readme-stats.vercel.app/api?username=nhcarrigan&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhcarrigan&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+## Coding Stats
+![WakaTime Stats](https://wakatime.com/share/@5d358488-b199-48b1-98ad-d68a3247bc71/ff281983-3b4f-441c-827a-1f2115fbdccf.png)
