@@ -24,7 +24,7 @@ All of my projects are available here on GitHub. You can view my top projects/co
 [![facebook](https://img.shields.io/badge/facebook-Nicholas%20Carrigan-purple)](https://facebook.com/nhcarrigan)
 [![linkedin](https://img.shields.io/badge/LinkedIn-Nicholas%20Carrigan-purple)](https://linkedin.com/in/nhcarrigan)
 [![discord](https://img.shields.io/badge/Discord-nhcarrigan-purple)](https://discord.bio/p/nhcarrigan)
-[![discord server](https://img.shields.io/discord/710307364556767283?color=purple&logo=discord&logoColor=purple)](https://discord.gg/PHqDbkg)
+[![discord server](https://img.shields.io/discord/778130114772598785?color=purple&logo=discord&logoColor=purple)](https://discord.gg/yMBWgETTJu)
 [![twitter](https://img.shields.io/twitter/follow/nhcarrigan?color=purple&label=Twitter&logoColor=purple&style=social)](https://twitter.com/nhcarrigan)
 [![steam](https://img.shields.io/badge/Steam-nhcarrigan-purple)](https://steamcommunity.com/id/nhcarrigan)
 
