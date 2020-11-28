@@ -27,6 +27,7 @@ All of my projects are available here on GitHub. You can view my top projects/co
 [![discord server](https://img.shields.io/discord/778130114772598785?color=purple&logo=discord&logoColor=purple)](http://chat.nhcarrigan.com)
 [![twitter](https://img.shields.io/twitter/follow/nhcarrigan?color=purple&label=Twitter&logoColor=purple&style=social)](https://twitter.com/nhcarrigan)
 [![steam](https://img.shields.io/badge/Steam-nhcarrigan-purple)](https://steamcommunity.com/id/nhcarrigan)
+[![tumblr](https://img.shields.io/badge/Tumblr-nhcarrigan-purple)](https://nhcarrigan.tumblr.com)
 
 ## 100 Days of Code
 
