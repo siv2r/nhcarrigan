@@ -37,14 +37,10 @@ All my projects are available here on GitHub. You can view my top projects/contr
 ## GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=nhcarrigan&count_private=true&show_icons=true&theme=synthwave" width="80%" alt="Statistics"/>
-<!-- [![nhcarrigan's github stats](https://github-readme-stats.vercel.app/api?username=nhcarrigan&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
-   -->
-  <br>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nhcarrigan&show_icons=true&theme=synthwave" alt = "Top Languages Cards" width="50%" />
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhcarrigan&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) -->
-  
+  <img src = "https://github-readme-stats.vercel.app/api?username=nhcarrigan&count_private=true&show_icons=true&theme=synthwave" width="50%" alt="Statistics"/>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nhcarrigan&show_icons=true&theme=synthwave" alt = "Top Languages Cards" width="50%" />  
 </p>
+
 
 
 ## Coding Stats
