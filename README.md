@@ -1,8 +1,10 @@
 # Nicholas Carrigan
 
-![Social Media Banner](./banner.png)
+<p align = "center">
+  <img src = "./banner.png" alt= "Social Media Banner" />
+</p>
 
-Hello~! Welcome to my GitHub profile! Thank you for visiting! 🙃
+Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
 
 ## About Me
 
