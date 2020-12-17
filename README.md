@@ -47,3 +47,7 @@ All my projects are available here on GitHub. You can view my top projects/contr
 
 ## Coding Stats
 ![WakaTime Stats](https://wakatime.com/share/@5d358488-b199-48b1-98ad-d68a3247bc71/ff281983-3b4f-441c-827a-1f2115fbdccf.png)
+
+## Contact
+
+I may be contacted through my [Discord Server](http://chat.nhcarrigan.com) or via [email form](https://contact.nhcarrigan.com).
