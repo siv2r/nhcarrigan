@@ -58,11 +58,11 @@ All my projects are available here on GitHub. You can view my top projects/contr
 <summary>WakaTime Stats</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 4,616 Contributions in the Year 2020
+> 🏆 4,660 Contributions in the Year 2020
  > 
 > 📦 167.0 kB Used in Github's Storage 
  > 
