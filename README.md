@@ -26,12 +26,6 @@ All my projects are available here on GitHub. You can view my top projects/contr
 <a href="https://steamcommunity.com/id/nhcarrigan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Steam-nhcarrigan-purple" /></a>
 </p>
 <hr />
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=nhcarrigan&count_private=true&show_icons=true&theme=synthwave" width="50%" alt="Statistics"/>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nhcarrigan&show_icons=true&theme=synthwave" alt = "Top Languages Cards" width="50%" />  
-</p>
-<hr />
 <h2 align="center">Contact</h2>
 <p align="center">
 I may be contacted through my <a href="http://chat.nhcarrigan.com" target="_blank" rel="noopener noreferrer">Discord Server</a> or via <a href="https://www.nhcarrigan.com/contact" target="_blank" rel="noopener noreferrer">email form</a>.
