@@ -21,12 +21,11 @@ All my projects are available here on GitHub. You can view my top projects/contr
 <img src="https://img.shields.io/github/followers/nhcarrigan?color=purple&logoColor=purple&style=social" />
 <a href="https://facebook.com/nhcarrigan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/facebook-Nicholas%20Carrigan-purple" /></a>
 <a href="https://linkedin.com/in/nhcarrigan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Nicholas%20Carrigan-purple" /></a>
-<a href="http://chat.nhcarrigan.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-nhcarrigan-purple" /></a>
 <a href="https://twitter.com/nhcarrigan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/nhcarrigan?color=purple&label=Twitter&logoColor=purple&style=social" /></a>
 <a href="https://steamcommunity.com/id/nhcarrigan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Steam-nhcarrigan-purple" /></a>
 </p>
 <hr />
 <h2 align="center">Contact</h2>
 <p align="center">
-I may be contacted through my <a href="http://chat.nhcarrigan.com" target="_blank" rel="noopener noreferrer">Discord Server</a> or via <a href="https://www.nhcarrigan.com/contact" target="_blank" rel="noopener noreferrer">email form</a>.
+I may be contacted through my <a href="http://chat.nhcarrigan.com" target="_blank" rel="noopener noreferrer">Chat Server</a> or via <a href="https://www.nhcarrigan.com/contact" target="_blank" rel="noopener noreferrer">email form</a>.
 </p>
